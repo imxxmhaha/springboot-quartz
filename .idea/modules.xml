@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz-api/springboot-quartz-api.iml" filepath="$PROJECT_DIR$/springboot-quartz-api/springboot-quartz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz-dto/springboot-quartz-dto.iml" filepath="$PROJECT_DIR$/springboot-quartz-dto/springboot-quartz-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz-service/springboot-quartz-service.iml" filepath="$PROJECT_DIR$/springboot-quartz-service/springboot-quartz-service.iml" />
+    </modules>
+  </component>
+</project>
